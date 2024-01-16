@@ -1,2 +1,2 @@
 # EOT Cranes Website
- A website for EOT Cranes Company
+ A website developed for EOT Cranes Company.
